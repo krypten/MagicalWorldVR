@@ -15,6 +15,9 @@ You can see the demo gameplay here.
 
 [![Magix VR Gameplay](https://img.youtube.com/vi/Ac_jhG6mIO4/0.jpg)](https://www.youtube.com/watch?v=Ac_jhG6mIO4)
 
+You can see the achievements video here.
+
+[![Magix VR Achievements](https://img.youtube.com/vi/YHQMxwnaD_Q/0.jpg)](https://www.youtube.com/watch?v=YHQMxwnaD_Q)
 
 ### Game Design Overview
 
